@@ -40,7 +40,7 @@ import { Component } from '@angular/core';
 
       <p class="w-[75%] sm:w-1/2 my-3 max-lg:text-center lg:text-[1.3rem] sm:text-[1.2rem] text-[1.1rem]">The news displayed belong almost entirely to Mashable, except for a few articles from TechCrunch. None of the material is used in a profitable or commercial way but for demonstration purposes only. The source of each piece of content is indicated in every single article and author page.</p>
 
-      <p class="w-[75%] sm:w-1/2 mt-4 lg:text-[1.3rem] sm:text-[1.2rem] text-[1.1rem]">For more details visit the project's page in my <a href="" target="_blank" class="text-brandViolet font-bold hover:bg-brandViolet hover:text-white">portfolio</a></p>
+      <p class="w-[75%] sm:w-1/2 mt-4 lg:text-[1.3rem] sm:text-[1.2rem] text-[1.1rem]">For more details visit the project's page in my <a href="https://github.com/juliansjk/Agora" target="_blank" class="text-brandViolet font-bold hover:bg-brandViolet hover:text-white">GitHub</a></p>
     </section>
 
     <div></div>
